@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Мій домашній улюбленець</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #eef3f8;
+      text-align: center;
+      padding: 30px 15px;
+    }
+    h1 {
+      color: #1d3557;
+    }
+    video {
+      width: 100%;
+      max-width: 640px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Мій домашній улюбленець</h1>
+
+  <video controls>
+    <source src="video.mp4" type="video/mp4">
+    Ваш браузер не підтримує відео.
+  </video>
+
+</body>
+</html>
